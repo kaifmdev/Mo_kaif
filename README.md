@@ -1,4 +1,4 @@
 # Mo_kaif
-This is my first Git Repository
+This is my first GitHub Repository
 <br>
 Author - kaif 
